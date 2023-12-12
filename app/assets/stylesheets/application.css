@@ -21,4 +21,19 @@
 
 body {
   display: block;
+  font-family: verdana, arial, helvetica, sans-serif;
+  margin: 33px;
+  line-height: 18px;
+  font-size: 13px;
+}
+
+p {
+  display: block;
+  margin: 33px;
+  line-height: 18px;
+  font-size: 13px;
+}
+
+.edit-box {
+  display: block;
 }
