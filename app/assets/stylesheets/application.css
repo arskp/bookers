@@ -37,3 +37,7 @@ p {
 .edit-box {
   display: block;
 }
+
+.flash-message {
+  color: green;
+}
